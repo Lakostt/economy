@@ -1,0 +1,15 @@
+{
+    "Test" :
+    {
+        "name" : "Test name",
+        "type" : "Test type",
+        "price" : "10",
+        "desc" : "Test description"
+    },
+    "White" : {
+        "name" : "While Color",
+        "type" : "Role",
+        "price" : "50",
+        "desc" : "Выдается белый цвет ника"
+    }
+}
